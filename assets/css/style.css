@@ -1,0 +1,40 @@
+h1 {
+    font-size: 48px;
+    background-color: rgb(59, 59, 59);
+    font-family: tahoma;
+    color: white;
+    text-align: center;
+    line-height: 70px;
+}
+
+main p {
+    margin-left: 20px;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+section p {
+    margin-left: 20px;
+    text-transform: lowercase;
+    text-decoration: underline;
+}
+
+h2 {
+    text-shadow: -1px -1px black;
+    letter-spacing: 10px;
+    margin-left: 20px;
+    color: lightgray;
+    text-align: right;
+}
+
+article p {
+    margin-left: 20px;
+}
+
+ul {
+    background-color: lightgrey;
+}
+
+li {
+    background-color: darkgray;
+}
